@@ -2,7 +2,6 @@ body{
     background-color: #F5B399;
 }
 
-
 /* ID's */
 #presentacion{
     height: 90vh;
@@ -25,26 +24,36 @@ body{
 }
 
 #proyecto-3{
-    background-image: url("assets/nuevo-logo.gif");
+    background-image: url("assets/suga.jpeg");
 }
 
 /* Clases */
-
-.proyecto-1{
-    background-image: url("assets/google-logo.gif");
+.proyecto{
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-}
+    height: contain;
 
+}
+/*
+.proyecto-1{
+    background-image: url("assets/google-logo.gif");
+    
+}*/
+/*
 .proyecto-2{
     background-image: url("assets/inicio.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
-
-
+/*
+.proyecto-3{
+    background-image: url("assets/suga.jpeg");
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}*//
 
 .text-shadow-1 {
     text-shadow: -2px 0px 6px rgba(0, 0, 0, 5);
