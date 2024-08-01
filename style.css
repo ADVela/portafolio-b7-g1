@@ -3,6 +3,7 @@ body{
 }
 
 /* ID's */
+
 #presentacion{
     height: 90vh;
     display: flex;
@@ -14,13 +15,14 @@ body{
     border-radius: 20%;
 }
 
+
+
 #proyecto-1{
     background-image: url("assets/google-logo.gif");
 }
 
 #proyecto-2{
     background-image: url("assets/inicio.jpg");
-   
 }
 
 #proyecto-3{
@@ -32,40 +34,17 @@ body{
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-    height: contain;
-
-}
-/*
-.proyecto-1{
-    background-image: url("assets/google-logo.gif");
     
-}*/
-/*
-.proyecto-2{
-    background-image: url("assets/inicio.jpg");
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
 }
-/*
-.proyecto-3{
-    background-image: url("assets/suga.jpeg");
-    background-size:contain;
-    background-repeat: no-repeat;
-    background-position: center;
-}*//
 
 .text-shadow-1 {
-    text-shadow: -2px 0px 6px rgba(0, 0, 0, 5);
+    text-shadow: -2px 0px 6px rgba(0, 0, 0, 1);
 }
 
 .text-shadow-2 { text-shadow: 0 .25rem .5rem rgba(0, 0, 0, .25); }
 .text-shadow-3 { text-shadow: 0 .5rem 1.5rem rgba(0, 0, 0, .25); }
-/* 
 
 
-
-
-
-
-*/
+.texto-gigante{
+    font-size: 50px;
+}
