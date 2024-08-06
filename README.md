@@ -12,6 +12,16 @@ La pagina es responsiva (adaptable a diferentes tamaños de pantalla) e incluye 
 
 ## Secciones de mi sitio
 
+![Presentación](assets/readme/1.png)
+
+![Habilidades](assets/readme/2.png)
+
+![Proyectos](assets/readme/3.png)
+
+![Testimonios](assets/readme/4.png)
+
+![Contacto](assets/readme/5.png)
+
 
 ## Tecnologias 
 * HTML
