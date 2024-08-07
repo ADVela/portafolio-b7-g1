@@ -14,7 +14,11 @@
     <link rel="stylesheet" href="style.css">
 </head>
 
-<body>
+<body id="audio">
+
+    <audio autoplay>
+        <source src="assets/music/bts.mp3" type="audio/mpeg"> 
+    </audio>
 
     <!--- Cabecera de mi página               lg -nav extendifo   mg-nav dentro de lista-->
     <header>
@@ -41,6 +45,9 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-white" href="#contacto">Contacto</a>
+                        </li>
+                        <li class="nav-item">
+                            <button id="pauseButton">Pausar</button>
                         </li>
                     </ul>
                 </div>

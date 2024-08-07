@@ -7,7 +7,7 @@ Fue desarrollado con HTML, CSS y JS con el uso de el framework de UI, Bootstrap 
 
 La pagina es responsiva (adaptable a diferentes tamaños de pantalla) e incluye la presentacion de la autora del proyecto.
 
-[Proyecto desplegado (https://chic-brigadeiros-db8e19.netlify.app/)](https://karla-velazquez.netlify.app/#)
+[Proyecto desplegado (https://karla-velazquez.netlify.app/#)](https://karla-velazquez.netlify.app/#)
 
 
 ## Secciones de mi sitio
@@ -30,6 +30,6 @@ La pagina es responsiva (adaptable a diferentes tamaños de pantalla) e incluye 
 * Javascript
 
 ---
-Desarrollado con  💜 por [Karla Velazquez](https://chic-brigadeiros-db8e19.netlify.app/) en [TECHNOLOCHICAS PRO](https://tecnolochicas.mx/)
+Desarrollado con  💜 por [Karla Velazquez](https://karla-velazquez.netlify.app/#) en [TECHNOLOCHICAS PRO](https://tecnolochicas.mx/)
 
 
